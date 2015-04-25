@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">zdemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scanning">ScanningActivity</string>
+    
+    <string name="scan_text">将二维码放入中间区域    调整距离即可扫描</string>
+
+</resources>
